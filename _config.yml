@@ -1,0 +1,14 @@
+layout_spectrum: 0.8238181180786341
+typography_spectrum: 0.3519574077799916
+color:
+  brandStrength: 0.7764151121955365
+  lightness: 0.8225626761559397
+  saturation: 0.8900258499197662
+  rhythmicContrast: 0.1904025156982243
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: RivertownDigital
