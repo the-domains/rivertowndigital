@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.9627400862518698
+  saturation: 0.734767
   brandStrength: 0.2989651395473629
-  rhythmicContrast: 0.2602209106553346
+  lightness: 0.5770609
   brandColors:
     - '#25064D'
     - '#36175E'
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
-  lightness: 0.3395432909019291
-typography_spectrum: 1
+  rhythmicContrast: 0.1810036
+typography_spectrum: 0.0609319
 layout_spectrum: 1
 name: RivertownDigital
