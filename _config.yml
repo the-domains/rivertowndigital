@@ -1,9 +1,18 @@
-layout_spectrum: 0.9409317884128541
-typography_spectrum: 0.9723927134182304
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.2989651395473629
-  lightness: 0.33954329090192914
   saturation: 0.9627400862518698
+  brandStrength: 0.2989651395473629
   rhythmicContrast: 0.2602209106553346
   brandColors:
     - '#25064D'
@@ -11,4 +20,7 @@ color:
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
+  lightness: 0.3395432909019291
+typography_spectrum: 1
+layout_spectrum: 1
 name: RivertownDigital
